@@ -1,0 +1,5 @@
+a.out
+jennie.txt
+jisoo.txt
+lisa.txt
+main.c

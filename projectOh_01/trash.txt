@@ -1,0 +1,8 @@
+total 176
+-rwxr-xr-x  1 jaehalee  staff  50576  3 31 14:56 a.out
+-rw-r--r--  1 jaehalee  staff     34  3 29 18:07 jennie.txt
+-rw-r--r--  1 jaehalee  staff     23  3 29 18:07 jisoo.txt
+-rw-r--r--  1 jaehalee  staff     43  3 29 18:08 lisa.txt
+-rw-r--r--@ 1 jaehalee  staff  16758  3 31 14:31 main.c
+-rw-r--r--  1 jaehalee  staff     52  3 29 18:08 rose.txt
+-rw-r--r--  1 jaehalee  staff      0  3 31 14:57 trash.txt
